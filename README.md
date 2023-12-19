@@ -1,6 +1,6 @@
 <img src="./m99_profile_cover.png" alt="Profile Cover" />
 
-# 👨‍💻 Mohaimin Hossain
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Mohaimin Hossain
 
 **`Full Stack Developer | DevOps Engineer | Tech Enthusiast`**
 
@@ -22,7 +22,7 @@ I'm a versatile and dedicated professional with a true passion for web developme
 
 ---
 
-### ⚒️ Languages and Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -96,7 +96,7 @@ I'm a versatile and dedicated professional with a true passion for web developme
 
 ---
 
-### 🎁 Get in touch
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Wrapped%20Gift.png" alt="Wrapped Gift" width="25" height="25" /> Get in touch
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
